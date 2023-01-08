@@ -9,7 +9,8 @@ const JobApplySchema = new mongoose.Schema({
     currentCtc:{type:Number},
     expectedCtc:{type:Number},
     additionalInfo:{type:Object},
-    isDeleted:{type:Boolean, default:false}
+    isDeleted:{type:Boolean, default:false},
+    coverLetter:{type:String, default:""}
 
     
 }, {

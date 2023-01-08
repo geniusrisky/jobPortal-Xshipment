@@ -9,9 +9,8 @@ const UserSchema = new mongoose.Schema({
     isDeleted:{type:Boolean, default:false},
     address:{type:Object, required:false},
     password: { type: String, required: false },
-    resume:{type:String },
-    coverLetter:{type:String }  
-          
+       
+
 }, {
     toJSON: {
         transform(doc, ret) {
