@@ -1,27 +1,3 @@
-[08 01 2023 15:50:31.194] [INFO] - {}
-[08 01 2023 15:51:25.590] [DEBUG] - Server Started At Port 3000
-[08 01 2023 15:51:26.224] [INFO] - 
-*************MONGODB connected**************
-
-[08 01 2023 15:53:12.125] [DEBUG] - Server Started At Port 3000
-[08 01 2023 15:53:13.132] [INFO] - 
-*************MONGODB connected**************
-
-[08 01 2023 15:54:50.053] [DEBUG] - Server Started At Port 3000
-[08 01 2023 15:54:50.846] [INFO] - 
-*************MONGODB connected**************
-
-[08 01 2023 15:54:57.635] [DEBUG] - Server Started At Port 3000
-[08 01 2023 15:54:58.753] [INFO] - 
-*************MONGODB connected**************
-
-[08 01 2023 15:55:43.608] [DEBUG] - Server Started At Port 3000
-[08 01 2023 15:55:44.531] [INFO] - 
-*************MONGODB connected**************
-
-[08 01 2023 15:55:59.095] [DEBUG] - Server Started At Port 3000
-[08 01 2023 15:56:06.693] [DEBUG] - Server Started At Port 3000
-[08 01 2023 15:56:07.640] [INFO] - 
-*************MONGODB connected**************
-
-[08 01 2023 15:57:45.114] [INFO] - {}
+[08 01 2023 19:52:46.723] [DEBUG] - Server Started At Port 3000
+[08 01 2023 19:55:46.564] [ERROR] - ERROR Connecting the database {}
+[08 01 2023 19:55:46.568] [DEBUG] - Server Started At Port 3000
